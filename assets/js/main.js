@@ -1,6 +1,6 @@
 /**
-* Template Name: Learnryte
-* Template URL: https://bootstrapmade.com/Learnryte-free-education-bootstrap-theme/
+* Template Name: LearnRyte
+* Template URL: https://bootstrapmade.com/LearnRyte-free-education-bootstrap-theme/
 * Updated: Mar 19 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
